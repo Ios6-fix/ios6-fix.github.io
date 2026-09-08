@@ -1,0 +1,11 @@
+Origin: iOS 6 Fix
+Label: iOS 6 Fix
+Suite: ios6
+Codename: ios6
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: iOS 6 Fix Repository
+
+
+
